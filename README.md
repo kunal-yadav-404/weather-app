@@ -1,4 +1,4 @@
-# Weather-App
+# Weather-App 
 # Snaps!!
 
 ![Screenshot_20230217_111622](https://user-images.githubusercontent.com/83703416/224496624-1e878f1c-4b3c-4cb4-98a4-2ba9ddad77ea.png)
@@ -9,7 +9,7 @@
 
 ## Available Scripts
 
-In the project directory, you can run:
+In the project directory, you can run :
 
 ### `npm start`
 
